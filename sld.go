@@ -21,7 +21,7 @@ func extractSLD(domain string) string {
 }
 
 func printBanner() {
-    fmt.Println(`SeconLevelDomain (SLD) v1.0`)
+    fmt.Println("SeconLevelDomain (SLD) v1.0")
     fmt.Println("github.com/mrsaighnal")
 }
 
